@@ -12,15 +12,13 @@ Welcome to the Mexico Toy Sales Dashboard, a comprehensive data visualization to
 
 ## Dashboard Overview<a name="dashboard-overview"></a>
 
-![Dashboard Overview](Dashboard_Images/Overview.png)
-
 The **Mexico Toy Sales Dashboard** provides key metrics to help monitor sales and manage inventory. It is split into two main pages to explore product profitability, sales data, and store performance.
 
 ---
 
 ## Page 1: Sales & Inventory Overview<a name="page-1-sales-inventory-overview"></a>
 
-![Page 1](Dashboard_Images/Page1.png)
+![Screenshot 2024-09-13 153105](https://github.com/user-attachments/assets/3ca379f2-96d2-4108-b2ff-c24423e50f12)
 
 ### Features
 
@@ -43,7 +41,7 @@ The **Mexico Toy Sales Dashboard** provides key metrics to help monitor sales an
 
 ## Page 2: Overall Store Performance<a name="page-2-overall-store-performance"></a>
 
-![Page 2](Dashboard_Images/Page2.png)
+![Screenshot 2024-09-13 153137](https://github.com/user-attachments/assets/5408a598-c036-46d6-bda8-fde7e47feb86)
 
 ### Features
 
