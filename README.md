@@ -58,8 +58,5 @@ The **Mexico Toy Sales Dashboard** provides key metrics to help monitor sales an
 2. Analyze total revenue, profit, and order quantities by category.
 3. Explore revenue trends on a month-by-month basis.
 
-### Video Tutorial<a name="video-tutorial"></a>
-In addition to the dashboard, we've provided a video tutorial to walk you through how it was built and how you can use it effectively. This tutorial covers all the dashboard functionalities, how to interact with filters, and provides a step-by-step guide to the insights available in the data.
 
-Link to Video Tutorial: Watch the Video
 
